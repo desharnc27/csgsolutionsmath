@@ -11,7 +11,7 @@ very rekt 3: none
 puzzles at https://cdn.event.csgames.org/challenges/math/
 
 Here are the .java files (the less adapted language for this type of puzzles, lol) and the theoretical explanations in pdf.
-
+The main files that print the solutions are TwadoSolution.java in matriceTwado and Solution.java in shapefilling
 
 1. My english is crap, so theoretical explanations are in french only.
 2. I'm more math than programming, so I code like !""%?*
